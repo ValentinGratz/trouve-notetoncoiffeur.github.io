@@ -11,7 +11,7 @@ Depuis un moment, j'avais eu l'idée de réalisé ce genre de site, au départ, 
 
 # F.A.Q
 ## Y aura-t-il un site officiel et où le trouver ? 
-Ce projet n'aura pas de site officiel, mais simplement hébergé sur github comme vous pouvez le voir sur le lien : http://trouve-notetoncoiffeur.github.io/
+Ce projet n'aura pas de site officiel, mais simplement hébergé sur github comme vous pouvez le voir sur le lien : https://valentingratz.github.io/trouve-notetoncoiffeur.github.io/
 
 ## Est-ce que vous avez noter chaque coiffeur ? 
 Non, je n'ai pas noté chaque coiffeur comme les guides gastronomiques, c'est pour cela que j'accepte votre contribution à ce sujet, à me contacter prochainement pour donner votre coiffeur, le noter.
